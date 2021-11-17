@@ -1,0 +1,58 @@
+.container
+{
+
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+body {
+    background-color: #393E46;
+  }
+h1{
+color:cadetblue;
+font-size: 3vw;
+padding: 15px;
+text-align: center;
+font-family: 'Oswald', cursive;
+}
+
+h2{
+    color: darkolivegreen;
+    font-size: 2vw;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Montserrat', cursive;
+}
+
+.start{
+    text-align: center;
+    align-self: center;
+
+}
+
+.sbtn{
+    background-color: darkolivegreen;
+    padding: 2vw 8vw;
+    color: wheat;
+    font-family: 'Oswald', cursive;
+}
+.sbtn:hover{
+    background-color: wheat;
+    color: darkolivegreen;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+
+}
+
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
